@@ -1,8 +1,3 @@
-Here’s a **clean, examiner-safe README** that **honestly** justifies this as an **Operating Systems–oriented project**, without overclaiming.
-You can paste this directly into `README.md`.
-
----
-
 # Search Auto-Complete System
 
 **(Trie Data Structure | Operating Systems Concepts)**
